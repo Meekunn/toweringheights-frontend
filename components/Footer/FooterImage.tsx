@@ -47,7 +47,7 @@ const FooterImage = () => {
     })
 
     return (
-        <Box bg="url(/assets/group_img/footer.jpg) no-repeat" sx={footerImageBox} >
+        <Box bg="url(/assets/logo_ths.jpg) no-repeat" sx={footerImageBox} >
             <Flex
                 bgColor='rgba(0, 0, 0, 0.6)'
                 overflow='hidden'

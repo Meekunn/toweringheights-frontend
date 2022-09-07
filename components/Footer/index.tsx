@@ -5,7 +5,7 @@ import {
     Heading,
 } from "@chakra-ui/react"
 import Image from "next/image"
-import SchoolLogo from '../../assets/logo_ths.jpg'
+import SchoolLogo from '../../public/assets/logo_ths.jpg'
 import FooterImage from "./FooterImage"
 import FooterLink from "./FooterLink"
 import FooterSocial from "./FooterSocial"

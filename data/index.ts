@@ -1,9 +1,9 @@
 import { IActivityProps, IBlogProps } from '../types/imageTypes'
-import ActivityImage1 from '../assets/playground/playground1.jpg'
-import ActivityImage2 from '../assets/cultural/cultural.jpg'
-import BlogImage1 from '../assets/grads/POP_19551.jpg'
-import BlogImage2 from '../assets/milo/IMG-20220606-WA00051.jpg'
-import BlogImage3 from '../assets/parents/POP_19901.jpg'
+import ActivityImage1 from '../public/assets/logo_ths.jpg'
+import ActivityImage2 from '../public/assets/logo_ths.jpg'
+import BlogImage1 from '../public/assets/logo_ths.jpg'
+import BlogImage2 from '../public/assets/logo_ths.jpg'
+import BlogImage3 from '../public/assets/logo_ths.jpg'
 
 export const activities: IActivityProps[] =  [
     { 

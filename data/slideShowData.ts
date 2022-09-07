@@ -1,9 +1,9 @@
-import Image1 from '../assets/group_img/InShot_20220728_104357649.jpg'
-import Image2 from '../assets/uniform/IMG_20200305_103641_6.jpg'
-import Image3 from '../assets/class_activities/IMG_20200204_114106_8.jpg'
-import Image4 from '../assets/group_img/InShot_20220728_104256447.jpg'
-import Image5 from '../assets/class_activities/IMG_20210222_103517_3201_1920.jpg'
-import { ISlideShow } from '../types/slide'
+import Image1 from '../public/assets/logo_ths.jpg'
+import Image2 from '../public/assets/logo_ths.jpg'
+import Image3 from '../public/assets/logo_ths.jpg'
+import Image4 from '../public/assets/logo_ths.jpg'
+import Image5 from '../public/assets/logo_ths.jpg'
+import { ISlideShow } from '../types/imageTypes'
 
 export const slideShowImages : ISlideShow[] = [
     {

@@ -1,8 +1,8 @@
 import { Box, Flex, Link as ChakraLink, Heading } from "@chakra-ui/react"
 import Link from "next/link"
-import Image1 from '../../assets/class_activities/IMG_20200115_092018_0.jpg'
-import Image2 from '../../assets/class_activities/IMG_20200204_114106_8.jpg'
-import Image3 from '../../assets/cultural/POP_2079.jpg'
+import Image1 from '../../public/assets/logo_ths.jpg'
+import Image2 from '../../public/assets/logo_ths.jpg'
+import Image3 from '../../public/assets/logo_ths.jpg'
 import { ISlideShow } from '../../types/imageTypes'
 import EachImage from "./EachImage"
 import { smallHeadingBorder } from "../../theme/components/boxStyles"

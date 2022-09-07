@@ -1,10 +1,10 @@
 import { IStaffProps, IStaffsArray } from '../types/imageTypes'
-import mrsBalogun from '../assets/teachers/POP_21561.jpg'
-import mrsBose from '../assets/teachers/Mrs_Bose3.jpg'
-import missTaiwo from '../assets/teachers/Miss_Taiwo_2.jpg'
-import missKehinde from '../assets/teachers/Miss_Kehinde_2.jpg'
-import missYinka from '../assets/teachers/Miss_Yinka_2.jpg'
-import Staffs from '../assets/teachers/staff3.jpg'
+import mrsBalogun from '../public/assets/logo_ths.jpg'
+import mrsBose from '../public/assets/logo_ths.jpg'
+import missTaiwo from '../public/assets/logo_ths.jpg'
+import missKehinde from '../public/assets/logo_ths.jpg'
+import missYinka from '../public/assets/logo_ths.jpg'
+import Staffs from '../public/assets/logo_ths.jpg'
 
 export const staffs:IStaffProps [] = [
     {

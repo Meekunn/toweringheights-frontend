@@ -27,7 +27,6 @@ interface crumbProps {
 // }
 
 const Crumb = ({text, href, last = false, newPath, transformPath, lastPath}: crumbProps) => {
-    
     const transformLabel = (str: string, newText: string) => {
         const label = str.replace(str, newText)
         return transformPath(label)
@@ -38,7 +37,14 @@ const Crumb = ({text, href, last = false, newPath, transformPath, lastPath}: cru
         return (
             <Text color="font.200"  m={'0 !important'}> {replacedTitlePath} </Text>
         )
-    } else if (last) {
+    } 
+    else if(!last && newPath){
+        const replacedTitlePath = transformLabel(text, newPath)
+        return (
+            <Text color="font.200"  m={'0 !important'}> {text} </Text>
+        )
+    }
+    else if (last) {
         const titlePath = transformPath(text)
         return (
             <Text color="font.200"  m={'0 !important'}> {titlePath} </Text>
