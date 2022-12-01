@@ -5,6 +5,7 @@ import missTaiwo from "../assets/teachers/Miss_Taiwo_2.jpg"
 import missKehinde from "../assets/teachers/Miss_Kehinde_2.jpg"
 import missYinka from "../assets/teachers/Miss_Yinka_2.jpg"
 import missTaiye from "../assets/teachers/Miss_Taiye_Balogun.jpg"
+import avatar from "../assets/teachers/avatar-temp.png"
 
 export const staffs: IStaffProps[] = [
 	{
@@ -14,9 +15,9 @@ export const staffs: IStaffProps[] = [
 		whatsapp: "https://wa.link/a1tplz",
 	},
 	{
-		sName: "Miss Taiye Balogun",
+		sName: "Mr Ahmeed",
 		role: "Teacher",
-		img: missTaiye,
+		img: avatar,
 		whatsapp: "https://wa.link/lx3ww9",
 		email: "mailto:ettibal04@gmail.com",
 	},

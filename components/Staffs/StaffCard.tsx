@@ -19,7 +19,7 @@ const StaffCard = ({ sName, img, role, whatsapp, email }: IStaffProps) => {
 					{role}
 				</Text>
 				<Flex mb={4} justify="center" gap={6} px={2}>
-					<Link variant={"staffCardLink"} href={whatsapp} isExternal>
+					{/* <Link variant={"staffCardLink"} href={whatsapp} isExternal>
 						<Icon
 							as={RiWhatsappLine}
 							w={{ base: 5, lg: 6 }}
@@ -32,7 +32,7 @@ const StaffCard = ({ sName, img, role, whatsapp, email }: IStaffProps) => {
 							w={{ base: 5, lg: 6 }}
 							h={{ base: 5, lg: 6 }}
 						/>
-					</Link>
+					</Link> */}
 				</Flex>
 			</Box>
 		</Flex>

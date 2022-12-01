@@ -1,6 +1,6 @@
 # Towering Heights Schools 🏫
 
-Towering Heights Schools is a top educational institution that aims to provide a warm,safe and caring learning environment for all our pupils. A place where each boy and girl can feel empowered to explore ,grow and realise their full potential, nurtured and helped by expert practitioners who are passionate about their craft and committed to meeting the needs of the children in their care.
+Towering Heights Schools is a top educational institution that aims to provide a warm,safe and caring learning environment for all our pupils. A place where each boy and girl can feel empowered to explore ,grow and realise their full potential, nurtured and helped by expert practitioners who are passionate about their craft and committed to meeting the needs of the children in their care. Visit the website: 🔗 <a href="https://www.toweringheightsschools.com/">https://www.toweringheightsschools.com/</a>
 
 <img src="./assets/ezgif.com-gif-maker.gif" alt="My Project GIF"  width="100%" height="600">
 
@@ -44,26 +44,20 @@ Here are some of the links you should look out for easy navigation.
   <li>Teacher</li>
 </ul>
 
-## Contributors 🧠
+## Designers 💄
 
 <ol>
-  <li>Designer- https://github.com/celestinaa</li>
-  <li>Designer- https://github.com/Ennyhie</li>
-  <li>Developer- https://github.com/Meekunn</li>
+  <li><a href="https://github.com/celestinaa"> Bamisaye Anuoluwapo </a></li>
+  <li><a href="https://github.com/Ennyhie"> Bolujokob Eniola </a></li>
+  <li><a href="https://www.linkedin.com/in/gbajumo-islamiat/"> Gbajumo Islamiat </a></li>
 </ol>
 
 ## Contributing 👨‍💻
 
 Contributions will be **greatly appreciated**.
 
-### How to Contribute
-
-1. Fork the Project
-2. Create your branch (`git checkout -b newbranch`)
-3. Commit your Changes (`git commit -m 'Add Something Cool'`)
-4. Push to the Remote Branch (`git push origin newbranch`)
-5. Open a Pull Request
-
-You can also open an issue with a tag.
+- If you would like to complain/suggest/contribute to this project, feel free to open an [issue](https://github.com/balotofi/toweringheights-frontend/issues)
+- You can also open an issue with a tag.
+- Please follow our [contributing guidelines](https://github.com/balotofi/toweringheights-frontend/blob/main/CONTRIBUTING.md).
 
 Don't forget to give the project a star.⭐ Thanks.

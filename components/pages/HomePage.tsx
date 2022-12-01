@@ -39,19 +39,19 @@ const HomePage = () => {
 						morally sound students.
 					</Text>
 					<Text pt={4} pb={8} className="paragraph">
-						Our{" "}
+						Our
 						<span
 							style={{
 								fontWeight: "700",
 							}}
 						>
 							mission statement
-						</span>{" "}
-						is building iduals and empowering them with skills and confidence to
-						challenge themselves in every aspect of their lives and also
-						enrichment of character and sense of identity. We are determined to
-						build them into becoming well-balanced, productive, and happy
-						iduals.
+						</span>
+						is building individuals and empowering them with skills and
+						confidence to challenge themselves in every aspect of their lives
+						and also enrichment of character and sense of identity. We are
+						determined to build them into becoming well-balanced, productive,
+						and happy individuals.
 					</Text>
 					<Button
 						onClick={() => router.push("/about_us")}

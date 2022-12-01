@@ -122,7 +122,7 @@ const AboutPage = () => {
 							</Tr>
 							<Tr>
 								<Td>Friday</Td>
-								<Td>7:30 AM - 5:00 PM</Td>
+								<Td>7:30 AM - 2:00 PM</Td>
 							</Tr>
 							<Tr>
 								<Td>Saturday</Td>

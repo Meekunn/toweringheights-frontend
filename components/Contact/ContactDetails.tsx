@@ -11,8 +11,8 @@ const ContactDetails = () => {
 				Contact Details
 			</Heading>
 			<Text className="paragraph">
-				You can always reach us via following contact details. We will give our
-				best to reach you as possible.
+				You can always reach us via the following contact details. We will do
+				our best to answer any questions you may have.
 			</Text>
 			<Flex sx={flexStyle}>
 				<Icon as={ImPhone} sx={blueIcon} />
