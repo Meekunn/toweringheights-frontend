@@ -60,4 +60,4 @@ Contributions will be **greatly appreciated**.
 - You can also open an issue with a tag.
 - Please follow our [contributing guidelines](https://github.com/balotofi/toweringheights-frontend/blob/main/CONTRIBUTING.md).
 
-Don't forget to give the project a star.⭐ Thanks.
+Don't forget to give the project a star.⭐ Thank you.
